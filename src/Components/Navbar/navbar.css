@@ -1,0 +1,27 @@
+.sideNav{
+    height: 80vh;
+    width: 20vw;
+    /* background-color: black; */
+    margin-top: 7vh;
+}
+
+.frst{
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 2vh;
+    padding-left: 3vw;
+    border-radius: 0  1.5vmax  1.5vmax  0;
+    color: rgb(87, 87, 87);
+    font: 100 1vmax 'Voyage';
+}
+
+
+.frst:hover{
+    background-color: #FEEFC3;
+}
+
+.frst h2{
+    margin-left: 1vw;
+}
